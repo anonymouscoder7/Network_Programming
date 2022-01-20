@@ -16,5 +16,3 @@ public class Day1 {
     }
 }
 
-// Hello World
-// comit -m
